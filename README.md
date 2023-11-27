@@ -1,4 +1,4 @@
-# Ocean garbage trajectory Prediction
+# Global Maritime Debris Trajectory Forecasting 
 
 This project integrates continuous-time physics modeling, advanced data analysis, and machine learning to predict the trajectory of garbage thrown into ocean at any given location and time, and offers valuable insights into global marine debris movement and enables predictive capabilities to address oceanic pollution challenges
 
